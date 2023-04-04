@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="hans" src="hans.png" width="125" height="125" />
+  <img alt="hans" src="docs/_static/logo.png" width="125" height="125" />
 </p>
 <h1 align="center">hans</h1>
 <p align="center">
