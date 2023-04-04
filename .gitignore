@@ -1,0 +1,16 @@
+# ignore some files/folders that don't need to
+# be made public / included in the GitHub repo
+
+# for python ...
+venv
+__pycache__
+
+# for python build
+build
+hans.egg-info
+
+# for vscode
+.vscode
+
+# for sphinx
+docs/_build
